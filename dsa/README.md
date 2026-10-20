@@ -16,7 +16,7 @@ This directory contains complete source code, technical notes, and algorithmic b
 | **06** | [Backtracking](06-backtracking/) | `dsa/06-backtracking/` | Subsets, Permutations, $N$-Queens, Grid Ways, $9 \times 9$ Sudoku Solver |
 | **07** | [Linked Lists](07-linked-lists/) | `dsa/07-linked-lists/` | Singly Linked List Node, Head/Tail Linking, Iterative Traversal |
 | **10** | [Trees & BST](10-trees-and-bst/) | `dsa/10-trees-and-bst/` | *(Reference)* Binary Trees, BST Invariants, DFS/BFS Traversal Foundations |
-| **12** | [Graphs](12-graphs/) | `dsa/12-graphs/` | Adjacency Matrix, Adjacency List, Topological Order Matrix (Java & C++) |
+| **12** | [Graphs](12-graphs/) | `dsa/12-graphs/` | Adjacency Matrix, Adjacency List, Topological Order Matrix |
 | **14** | [Dynamic Programming](14-dynamic-programming/) | `dsa/14-dynamic-programming/` | *(Reference)* 0/1 Knapsack, Matrix Chain Multiplication (MCM), TSP, Memoization |
 | **15** | [Bit Manipulation](15-bit-manipulation/) | `dsa/15-bit-manipulation/` | Bitwise Operators, Bit Masking, Count Set Bits, Modular Fast Exponentiation |
 

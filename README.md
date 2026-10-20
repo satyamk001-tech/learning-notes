@@ -85,7 +85,7 @@ learning-notes/
 | **DSA** | [06 - Backtracking](dsa/06-backtracking/) | ✅ Completed | 6 | Array backtracking, Subsets, Permutations, N-Queens ($N 	imes N$), Sudoku Solver |
 | **DSA** | [07 - Linked Lists](dsa/07-linked-lists/) | 🔄 Core Built | 2 | Node definition, head/tail pointers, linking, iterative traversal |
 | **DSA** | [10 - Trees & BST](dsa/10-trees-and-bst/) | 📖 Theory/Notes | Docs | Binary Tree properties, BST search/insert theory, tree traversals |
-| **DSA** | [12 - Graphs](dsa/12-graphs/) | 🔄 Core Built | 4 | Adjacency Matrix, Adjacency List, Topological ordering matrix (Java & C++) |
+| **DSA** | [12 - Graphs](dsa/12-graphs/) | 🔄 Core Built | 2 | Adjacency Matrix, Adjacency List, Topological ordering matrix |
 | **DSA** | [14 - Dynamic Programming](dsa/14-dynamic-programming/) | 📖 Theory/Notes | Docs | 0/1 Knapsack, Matrix Chain Multiplication (MCM), TSP, Memoization |
 | **DSA** | [15 - Bit Manipulation](dsa/15-bit-manipulation/) | ✅ Completed | 17 | Bitwise operators, ith bit manipulation, count set bits, fast exponentiation |
 

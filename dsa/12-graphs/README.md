@@ -6,10 +6,8 @@ A graph $G = (V, E)$ consists of a set of vertices (nodes) and edges connecting 
 
 ## 📂 Implementations
 
-- `AdjacentMatrix.java`: Java implementation of graph representation via Adjacency List (`List<List<Integer>>`) for $V = 6$ nodes.
-- `adjacentmatrix.cpp`: Original C++ implementation constructing both undirected Adjacency List and matrix display.
-- `TopologicalOrder.java`: Java implementation representing a Directed Acyclic Graph (DAG) with 8 nodes as an adjacency matrix.
-- `topologicalorder.cpp`: Original C++ graph matrix definition for topological ordering analysis.
+- `AdjacentMatrix.java`: Graph representation via Adjacency List (`List<List<Integer>>`) for $V = 6$ nodes.
+- `TopologicalOrder.java`: Directed Acyclic Graph (DAG) with 8 nodes represented as an adjacency matrix.
 
 ---
 
