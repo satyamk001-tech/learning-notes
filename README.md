@@ -176,3 +176,23 @@ java Solution
 ## ⚠️ Personal Learning Disclaimer
 
 This repository documents my authentic learning journey over the past five months. As a student continually refining my software engineering craft, some early solutions highlight brute-force approaches before progressing to optimal $O(N)$ or $O(N \log N)$ implementations. Notes and code will continue to evolve as I deepen my knowledge of advanced algorithms and system design.
+
+
+---
+
+## 📊 Author Activity & Contribution Overview
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/satyamk001-tech/satyamk001-tech/main/assets/activity-overview.svg" alt="Satyam Kumar Activity Overview" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/satyamk001-tech">
+    <img src="https://github-readme-stats.vercel.app/api?username=satyamk001-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Satyam Kumar's GitHub Stats" height="175" />
+  </a>
+  <a href="https://github.com/satyamk001-tech">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamk001-tech&theme=tokyonight&hide_border=true" alt="Satyam Kumar's Streak Stats" height="175" />
+  </a>
+</div>
